@@ -1,4 +1,4 @@
-from PyQt6.QtWidgets import QMainWindow
+from PyQt6.QtWidgets import QApplication, QMainWindow
 from IDReg import Ui_MainWindow as IDRegUI
 from addview import Ui_MainWindow as AddViewUI
 from addCon import Ui_MainWindow as AddConUI
